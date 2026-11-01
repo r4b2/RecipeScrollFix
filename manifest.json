@@ -1,0 +1,9 @@
+{
+  "name": "RecipeScrollFix",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/r4b2/RecipeScrollFix",
+  "description": "Fixes the crafting/upgrade recipe list jumping to the end when you scroll. Fixed, configurable step per mouse wheel notch. Client-side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
